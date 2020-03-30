@@ -1,0 +1,10 @@
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\bin\Release\netcoreapp3.1\File Sorter.exe
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\bin\Release\netcoreapp3.1\File Sorter.deps.json
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\bin\Release\netcoreapp3.1\File Sorter.runtimeconfig.json
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\bin\Release\netcoreapp3.1\File Sorter.runtimeconfig.dev.json
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\bin\Release\netcoreapp3.1\File Sorter.dll
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\bin\Release\netcoreapp3.1\File Sorter.pdb
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\obj\Release\netcoreapp3.1\File Sorter.AssemblyInfoInputs.cache
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\obj\Release\netcoreapp3.1\File Sorter.AssemblyInfo.cs
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\obj\Release\netcoreapp3.1\File Sorter.dll
+C:\Users\trohweder\Projects\C#\File Sorter\File Sorter\File Sorter\obj\Release\netcoreapp3.1\File Sorter.pdb
